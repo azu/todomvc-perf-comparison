@@ -20,14 +20,14 @@
     "readme.md"
   ],
   "homepage": "https://github.com/tastejs/todomvc-common",
-  "version": "0.1.11",
-  "_release": "0.1.11",
+  "version": "0.3.1",
+  "_release": "0.3.1",
   "_resolution": {
     "type": "version",
-    "tag": "v0.1.11",
-    "commit": "6b9bc130916c55d31e424041709dbb90a8247a3e"
+    "tag": "v0.3.1",
+    "commit": "c9c45cb1af95121686d71ae5f1e6c3a8d3ea7ddb"
   },
   "_source": "git://github.com/tastejs/todomvc-common.git",
-  "_target": "~0.1.7",
+  "_target": "~0.3.0",
   "_originalSource": "todomvc-common"
 }
